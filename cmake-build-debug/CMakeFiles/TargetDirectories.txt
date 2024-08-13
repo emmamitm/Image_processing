@@ -1,0 +1,3 @@
+/Users/emmamitchell/CLionProjects/Project2-image_processing/cmake-build-debug/CMakeFiles/Project2_image_processing.dir
+/Users/emmamitchell/CLionProjects/Project2-image_processing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emmamitchell/CLionProjects/Project2-image_processing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
